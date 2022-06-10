@@ -10,7 +10,7 @@
 
 - 💼 Atualmente trabalho na empresa de telemarketing AeC, e estou trabalhando duro para conseguir uma oportunidade da área da programação.
 - 📚 Sobre os meus estudos, estou no foco do PHP, Laravel e banco de dados (Mysql).
-- 📫 Para me contatar, abaixo terão algumas redes nas quais você pode se comunicar comigo.
+- 📫 Para me contatar, no fim da página terão algumas redes.
 
 <br>
 
