@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align-items=center>
+<img src="https://user-images.githubusercontent.com/92904691/173085170-0ab50596-5b57-45b4-a093-1f983144dae7.gif">
+</div>
 
-<!--
-**smellycat96/smellycat96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### E ai pessoal, sejam bem-vindos 😆 abaixo terá algumas informações sobre mim, e o meu perfil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+- 💼 Atualmente eu trabalho na empresa de telemarketing AeC, e estou trabalhando duro para conseguir uma oportunidade da área da programação.
+- 📚 Sobre os meus estudos, estou no foco do PHP, Laravel e banco de dados (Mysql).
+- 📫 Para me contatar, entre em meu linkedin que está aqui ao lado. 👈
+
+
